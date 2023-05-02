@@ -1,0 +1,1 @@
+import{_ as o,f as a,o as n,c as r,a as s,b as e,g as c,i as _}from"./index-8c9d47a6.js";const l={},d={class:"page"};function i(p,f){const t=a("router-link");return n(),r("div",d,[s("p",null,[e(" Oops, không thể tìm thấy trang. Trở về "),c(t,{to:"/"},{default:_(()=>[e("trang chủ.")]),_:1})])])}const h=o(l,[["render",i]]);export{h as default};
